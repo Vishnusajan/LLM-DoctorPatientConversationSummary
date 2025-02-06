@@ -1,0 +1,4 @@
+To Do-
+-> Try for regional languages
+-> Try for mixing regional and English
+-> Make a UI for doctor
